@@ -1,22 +1,22 @@
-## Hi, Ardaniah here! 👋
+## Hi, Ardaniah here! 
 
-* 🖥️ I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner mainly focusing in Object Detection. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as Object Detection but my chief battle now is strictly scientific and story-telling; but always open to AI related expertise. 
-*  🛄 Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
+* I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner mainly focusing in Object Detection. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as Object Detection but my chief battle now is strictly scientific and story-telling; but always open to AI related expertise. 
+*  Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
 
-*  🖥️ I am currently enjoying my self-learning journey in AI cutting edge technology, coding in some projects and writing some of the findings in my blog. Hence, I am looking forward to apply these knowledge in real-life soon.
+*  I am currently enjoying my self-learning journey in AI cutting edge technology, coding in some projects and writing some of the findings in my blog. Hence, I am looking forward to apply these knowledge in real-life soon.
 
-*  🎯 Apart from tech-coding, I am also range from anime-lover, an avid manga/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
+*  Apart from tech-coding, I am also range from anime-lover, an avid manga/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
 
 #
 
-### 👩‍💻 Experience 
+### Experience 
 * Worked at: [![Top Glove](https://img.shields.io/badge/-Top%20Glove%20Corp%20Bhd-4169E1?logoColor=white&style=plastic&logoWidth=20&logo=Thingiverse)](https://www.topglove.com) [![ExxonMobil](https://img.shields.io/badge/-ExxonMobil-FF0000??logo=exxon-600&logoColor=white&style=plastic&logoWidth=20)](https://corporate.exxonmobil.com/)
 
 * Interned at: [![Pandit](https://img.shields.io/badge/-Pandit%20Sdn%20Bhd-BC8F8F?logoColor=white&style=plastic)](https://www.linkedin.com/company/pandit-sdn-bhd/)  
 
 #
 
-### 🛠 Skills 
+### Skills 
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logoColor=3776AB&style=plastic&logoWidth=20&logo=Python)
@@ -55,12 +55,12 @@
 
 # 
 
-#### 📚 Self-Article
+#### Self-Article
 [![Blogspot](https://img.shields.io/badge/-Blogspot-black?logoColor=FF5722&style=plastic&logoWidth=20&logo=Blogger)](https://ardaniahjamaluddin.blogspot.com)
 
 #
 
-#### 📲🤙🏻 Let's Connect! 
+#### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logoColor=black&style=plastic&logoWidth=20&logo=LinkedIn)](https://www.linkedin.com/in/ardaniahjamaluddin)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=black&style=plastic&logoWidth=20&logo=Gmail)](mailto:ardaniahjamaluddin@gmail.com)
 [![Message](https://img.shields.io/badge/-Message-25D366?logoColor=black&style=plastic&logoWidth=20&logo=WhatsApp)](https://wa.me/+60123726624)
