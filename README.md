@@ -20,7 +20,6 @@
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logoColor=3776AB&style=plastic&logoWidth=20&logo=Python)
-![C++](https://img.shields.io/badge/-C++-ADD8E6?logoColor=00599C&style=plastic&logoWidth=20&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8B008B?logoColor=F7DF1E&style=plastic&logoWidth=20&logo=JavaScript) 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logoColor=white&style=plastic&logoWidth=20&logo=HTML5)
 ![React](https://img.shields.io/badge/-React-F5F5F5?logoColor=61DAFB&style=plastic&logoWidth=20&logo=React) 
