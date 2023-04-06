@@ -1,7 +1,7 @@
 ## Hi, Ardaniah here! 
 
 * I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner mainly focusing in Object Detection. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as Object Detection but my chief battle now is strictly scientific and story-telling; but always open to AI related expertise. 
-*  Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
+*  Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Junior Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
 
 *  I am currently enjoying my self-learning journey in AI cutting edge technology, coding in some projects and writing some of the findings in my blog. Hence, I am looking forward to apply these knowledge in real-life soon.
 
