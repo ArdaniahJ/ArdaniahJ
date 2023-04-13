@@ -1,6 +1,6 @@
 ## Hi, Ardaniah here! 
 
-* I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as ML, DL & Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
+* I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as Time Series Analysis & Forecasting and Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
 *  Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square).
 
 *  I am currently enjoying my self-learning journey in AI cutting edge technology, coding in some projects and writing some of the findings in my blog. Hence, I am looking forward to apply these knowledge in real-life soon.
