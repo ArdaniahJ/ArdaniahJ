@@ -1,9 +1,9 @@
 ## Hi, Ardaniah here! 
 
-* I am a former Automation Engineer cum Researcher in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (Digital Twins), Python Programming Language and its constituent libraries as well as Time Series Analysis & Forecasting and Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
-*  Currently seeking a job as ![ML Engineer](https://img.shields.io/badge/-ML%20Engineer-black?color=FFD700&style=flat-square), ![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-black?color=EE82EE&style=flat-square), or ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square).
+* I am a former Automation Engineer in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (MES), Python Programming Language and its constituent libraries as well as Power BI/Tableau dashboarding and Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
+*  Currently seeking a job as ![Junior Data Analyst](https://img.shields.io/badge/-Junior%20Data%20Analyst-black?color=FFD700&style=flat-square), or ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square).
 
-*  I am currently enjoying my self-learning journey in AI cutting edge technology, coding in some projects and writing some of the findings in my blog. Hence, I am looking forward to apply these knowledge in real-life soon.
+*  I am currently enjoying my self-learning journey in AI cutting edge technology and coding in some projects. Hence, I am looking forward to apply these knowledge in real-life soon.
 
 *  Apart from tech-coding, I am also range from anime-lover, an avid manga/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
 
@@ -51,11 +51,6 @@
 ![Fast API](https://img.shields.io/badge/-Fast%20API-3A3A42?logoColor=009688&style=plastic&logoWidth=20&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-FF6A00?logoColor=000000&style=plastic&logoWidth=20&logo=Flask)
 ![Heroku](https://img.shields.io/badge/-Heroku-A5915F?logoColor=430098&style=plastic&logoWidth=20&logo=Heroku)
-
-# 
-
-#### Self-Article
-[![Blogspot](https://img.shields.io/badge/-Blogspot-black?logoColor=FF5722&style=plastic&logoWidth=20&logo=Blogger)](https://ardaniahjamaluddin.blogspot.com)
 
 #
 
