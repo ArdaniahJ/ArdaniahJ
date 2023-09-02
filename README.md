@@ -1,7 +1,7 @@
 ## Hi, Ardaniah here! 
 
 * I am a former Automation Engineer in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (MES), Python Programming Language and its constituent libraries as well as Power BI/Tableau dashboarding and Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
-*  Currently seeking a job as ![Junior Data Analyst](https://img.shields.io/badge/-Junior%20Data%20Analyst-black?color=FFD700&style=flat-square), or ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square).
+*  Currently seeking a job as ![Junior Data Analyst](https://img.shields.io/badge/-Junior%20Data%20Analyst-black?color=FFD700&style=flat-square), ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square) or ![Junior Software Engineer](https://img.shields.io/badge/-Junior%20Software%20Engineer-black?color=0000FF&style=flat-square).
 
 *  I am currently enjoying my self-learning journey in AI cutting edge technology and coding in some projects. Hence, I am looking forward to apply these knowledge in real-life soon.
 
