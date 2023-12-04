@@ -1,18 +1,18 @@
 ## Hi, Ardaniah here! 
 
-* I am a former Automation Engineer in Industrial 4.0 and currently an AI practitioner. My expertise combines neatly with a fluency in Industrial 4.0 (MES), Python Programming Language and its constituent libraries as well as Power BI/Tableau dashboarding and Object Detection but my chief battle now is strictly scientific, crunching numbers/data and story-telling; but always open to AI related expertise. 
-*  Currently seeking a job as ![Junior Data Analyst](https://img.shields.io/badge/-Junior%20Data%20Analyst-black?color=FFD700&style=flat-square), ![Junior Data Scientist](https://img.shields.io/badge/-Junior%20Data%20Scientist-black?color=808000&style=flat-square) or ![Junior Software Engineer](https://img.shields.io/badge/-Junior%20Software%20Engineer-black?color=0000FF&style=flat-square).
+* I am a Python ETL Developer. My expertise fields combines neatly with a fluency in Industrial 4.0 (MES), Oil and Gas, Python Programming Language and its constituent libraries as well as Power BI/Tableau dashboarding and Object Detection but my chief battle now is strictly scientific, statistic, crunching numbers/data for ETL; but always open to AI related expertise. 
+*  Currently seeking a job as ![Python ETL Developer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
 
-*  I am currently enjoying my self-learning journey in AI cutting edge technology and coding in some projects. Hence, I am looking forward to apply these knowledge in real-life soon.
+*  I am currently enjoying my self-learning journey in ETL Integration Tools such as Talend and Informatica.
 
-*  Apart from tech-coding, I am also range from anime-lover, an avid manga/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
+*  Apart from tech-coding, I am also range from anime-lover, an avid manga/manhwa/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
 
 #
 
 ### Experience 
-* Worked at: [![Top Glove](https://img.shields.io/badge/-Top%20Glove%20Corp%20Bhd-4169E1?logoColor=white&style=plastic&logoWidth=20&logo=Thingiverse)](https://www.topglove.com) [![ExxonMobil](https://img.shields.io/badge/-ExxonMobil-FF0000??logo=exxon-600&logoColor=white&style=plastic&logoWidth=20)](https://corporate.exxonmobil.com/)
+* Worked at: [![Top Glove](https://img.shields.io/badge/-Top%20Glove%20Corp%20Bhd-4169E1?logoColor=white&style=plastic&logoWidth=20&logo=Thingiverse)](https://www.topglove.com) [![ExxonMobil](https://img.shields.io/badge/-ExxonMobil-FF0000??logo=exxon-600&logoColor=white&style=plastic&logoWidth=20)](https://corporate.exxonmobil.com/) [![Petronas](https://img.shields.io/badge/-Petronas-00A19B??logo=petronas-600&logoColor=white&style=plastic&logoWidth=20)](https://www.petronas.com/) 
 
-* Interned at: [![Pandit](https://img.shields.io/badge/-Pandit%20Sdn%20Bhd-BC8F8F?logoColor=white&style=plastic)](https://www.linkedin.com/company/pandit-sdn-bhd/)  
+* Interned at: [![Pandit](https://img.shields.io/badge/-Pandit%20Sdn%20Bhd-BC8F8F?logoColor=white&style=plastic)](https://www.linkedin.com/company/pandit-sdn-bhd/) [![Top Glove](https://img.shields.io/badge/-Top%20Glove%20Corp%20Bhd-4169E1?logoColor=white&style=plastic&logoWidth=20&logo=Thingiverse)](https://www.topglove.com)
 
 #
 
