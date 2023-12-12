@@ -1,9 +1,9 @@
 ## Hi, Dania here! 
 
 * I am a Python ETL Developer. My expertise fields combines neatly with a fluency in Industrial 4.0 (MES), Oil and Gas, Python Programming Language and its constituent libraries as well as Power BI/Tableau dashboarding and Object Detection but my chief battle now is strictly scientific, statistic, crunching numbers/data for ETL; but always open to AI related expertise. 
-*  Currently seeking a job as ![Python ETL Developer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-black?color=808000&style=flat-square).
+*  Currently seeking a job as ![Python ETL Developer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![System Admin](https://img.shields.io/badge/-System%20Admin-black?color=808000&style=flat-square).
 
-*  I am currently enjoying my self-learning journey in ETL Integration Tools such as Talend and Informatica.
+*  I am currently enjoying my self-learning journey in ETL Integration Tools such as Talend and Informatica. Also, I'm currently exploring and sharpening my skills for System Admin role.
 
 *  Apart from tech-coding, I am also range from anime-lover, an avid manga/manhwa/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
 
