@@ -1,7 +1,7 @@
 ## Hi, Dania here! 
 
 
-* An experienced seasoned Python ETL Developer in designing and managing ETL processes, primarily in the Industrial 4.0 (MES & AI) and Oil and Gas sectors. My journey has been driven by a passion for ensuring robust, secure, and efficient computing environments within the Industrial 4.0 and Oil and Gas sectors. Leveraging my skills in Python and my insights from data analytics, I am adept at scripting for automation, monitoring system performance, and managing network security. My focus is on maintaining reliable and high-performing systems, with a keen eye on optimizing server operations and ensuring data integrity and security.
+A seasoned Python ETL Developer, I specialize in designing and managing ETL processes, particularly within the Industrial 4.0 (MES & AI) and Oil and Gas sectors. My journey is fueled by a commitment to robust, secure, and efficient computing environments in these industries. Skilled in Python, Linux and certified with CCNA, I excel in scripting for automation, monitoring system performance, and enhancing network security. My expertise lies in creating and maintaining reliable, high-performing systems with an emphasis on optimizing server operations and safeguarding data integrity and security. While I am proficient in these areas, my chief challenge lies in deepening my understanding of statistics, mathematics, and AI, which are crucial for advancing in today's data-driven landscape
 
 
 *  Currently seeking a job as ![Python ETL Developer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![System Admin](https://img.shields.io/badge/-System%20Admin-black?color=808000&style=flat-square).
