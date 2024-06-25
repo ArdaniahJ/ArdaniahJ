@@ -1,7 +1,7 @@
 ## Hi, Dania here! 
 
 
-My journey into data field is like going for a hike - You'll found many summits. When you found a summit, you thought that you've finally reached the peak but when you're eager to climb a little bit more, you suddenly found another summit. 
+My journey into data field is like going for a hike - You'll found many summits. <br> When you found a summit, you thought that you've finally reached the peak but when you're eager to climb a little bit more, you suddenly found another summit. 
 
 Similarly, I was an automation engineer but passions in IT transits me through beginner role like system administration. I Eventually, I got to know more about data especially data science and machine learning. However, I got a full fledged job as a Data Engineer. This is where I fill like I wanted to hike more to a higher level because I have found the final summit. I eventually found my passion in data engineering. Along this path, I discovered my knack for navigating the complexities of programming, data pipelines, ETL processes, and serverless architecture - particularly within the oil and gas sector.
 
