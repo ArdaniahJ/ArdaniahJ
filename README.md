@@ -1,13 +1,13 @@
 ## Hi, Dania here! 
 
 
-A seasoned Python ETL Developer, I specialize in designing and managing ETL processes, particularly within the Industrial 4.0 (MES & AI) and Oil and Gas sectors. My journey is fueled by a commitment to robust, secure, and efficient computing environments in these industries. Skilled in Python, Linux and certified with CCNA, I excel in scripting for automation, monitoring system performance, and enhancing network security. My expertise lies in creating and maintaining reliable, high-performing systems with an emphasis on optimizing server operations and safeguarding data integrity and security. While I am proficient in these areas, my chief challenge lies in deepening my understanding of statistics, mathematics, and AI, which are crucial for advancing in today's data-driven landscape
+Embarking on an unconventional journey into the realms of data, technology, and innovation, I initially focused on automation engineering. Transitioning through roles in system administration and data science, I eventually found my passion in data engineering. Along this path, I discovered my knack for navigating the complexities of data pipelines, ETL processes, and advanced analytics, particularly within the oil and gas sector.
 
+As a seasoned Python ETL Developer, I specialize in designing and managing ETL pipelines, particularly within the oil and gas sector. My career journey has been fueled by a commitment to establishing robust, secure, and efficient computing environments in these industries. Proficient in Python, I excel in scripting for automation and monitoring system performance. My expertise lies in creating and maintaining reliable, high-performing systems with a focus on optimizing server operations and safeguarding data integrity and security. While I have honed my skills in these areas, my primary challenge lies in deepening my understanding of Data Engineering and its associated modern technologies crucial for advancing in today's data-driven ecosystem.
 
-*  Currently seeking a job as ![Python ETL Developer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![System Admin](https://img.shields.io/badge/-System%20Admin-black?color=808000&style=flat-square).
+Driven by a commitment to continuous learning, I embrace new challenges with enthusiasm. Whether optimizing data models, delving into advanced SQL techniques, or exploring emerging technologies like serverless architecture, I am dedicated to pushing boundaries and delivering impactful results.
 
-*  I am currently enjoying my self-learning journey in ETL Integration Tools such as Talend and Informatica. Also, I'm currently exploring and sharpening my skills for System Admin role.
-
+*  Currently seeking a job as ![Data Engineer](https://img.shields.io/badge/-Python%20ETL%20Developer-black?color=0000FF&style=flat-square) or ![Junior Python Developer](https://img.shields.io/badge/-System%20Admin-black?color=808000&style=flat-square).
 *  Apart from tech-coding, I am also range from anime-lover, an avid manga/manhwa/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 😉 Nice to meet you all. Scroll down to know more...
 
 #
