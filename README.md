@@ -19,7 +19,7 @@ Driven by a commitment to continuous learning, I embrace new challenges with ent
 
 
 *  Currently seeking a job as a $\color{magenta}{\textsf{Data Analyst.}}$ or $\color{magenta}{\textsf{Data Engineer.}}$
-*  Apart from tech-coding, I am also range from anime-lover, an avid manga/manhwa/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 👾 Nice to meet you all.
+*  Apart from exploring the data field, I am also range from anime-lover, an avid manga/manhwa/book reader, illustrator, to chocolate-lover. This is what my fully fuel. Let me know if we're gangs 👾 Nice to meet you all.
 
 
 #
