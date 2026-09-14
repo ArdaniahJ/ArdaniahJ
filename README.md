@@ -1,1 +1,1 @@
-aspiring SWE / DE
+aspiring SWE / DE with passions in data domain.
