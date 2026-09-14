@@ -1,1 +1,1 @@
-Aspiring Data Engineer / SWE 
+aspiring SWE / DE
